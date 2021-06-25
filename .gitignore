@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+npm-debug.log
+dist
+.tmp
+.sass-cache
+*.sql
+app/components
+bower_components
+_public
+bds_2013*
+*.sublime-project
+*.sublime-workspace
